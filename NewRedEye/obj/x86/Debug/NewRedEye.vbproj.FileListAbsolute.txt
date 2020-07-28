@@ -1,0 +1,12 @@
+C:\Users\leon\source\repos\NewRedEye\NewRedEye\bin\x86\Debug\NewRedEye.exe.config
+C:\Users\leon\source\repos\NewRedEye\NewRedEye\bin\x86\Debug\NewRedEye.exe
+C:\Users\leon\source\repos\NewRedEye\NewRedEye\bin\x86\Debug\NewRedEye.pdb
+C:\Users\leon\source\repos\NewRedEye\NewRedEye\bin\x86\Debug\NewRedEye.xml
+C:\Users\leon\source\repos\NewRedEye\NewRedEye\obj\x86\Debug\NewRedEye.vbprojAssemblyReference.cache
+C:\Users\leon\source\repos\NewRedEye\NewRedEye\obj\x86\Debug\NewRedEye.Form1.resources
+C:\Users\leon\source\repos\NewRedEye\NewRedEye\obj\x86\Debug\NewRedEye.Resources.resources
+C:\Users\leon\source\repos\NewRedEye\NewRedEye\obj\x86\Debug\NewRedEye.vbproj.GenerateResource.cache
+C:\Users\leon\source\repos\NewRedEye\NewRedEye\obj\x86\Debug\NewRedEye.vbproj.CoreCompileInputs.cache
+C:\Users\leon\source\repos\NewRedEye\NewRedEye\obj\x86\Debug\NewRedEye.exe
+C:\Users\leon\source\repos\NewRedEye\NewRedEye\obj\x86\Debug\NewRedEye.xml
+C:\Users\leon\source\repos\NewRedEye\NewRedEye\obj\x86\Debug\NewRedEye.pdb
